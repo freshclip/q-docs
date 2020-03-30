@@ -96,6 +96,14 @@ Das Auswählen des Bilder geschieht ähnlich wie bei den Videos: Rechts erschein
 
 Nach Bedarf werden wir weitere Komponenten entwickeln.
 
+## Beitragslisten
+
+Wie der Name sagt, handelt sich sich um [geordnete Listen von Beiträgen](https://stage-q.freshclip.tv/item_lists) wie etwa diese:
+
+![image](https://user-images.githubusercontent.com/141123/77960007-db3d8a80-72d7-11ea-8c2b-2c78b2e41b2e.png)
+
+
+
 ## Websites
 
 Hier kannst du das Verhalten von unseren Web-Portalen konfigurieren:
