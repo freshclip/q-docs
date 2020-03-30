@@ -102,7 +102,7 @@ Wie der Name sagt, handelt sich sich um [geordnete Listen von Beiträgen](https:
 
 ![image](https://user-images.githubusercontent.com/141123/77960007-db3d8a80-72d7-11ea-8c2b-2c78b2e41b2e.png)
 
-Wie man an den Beispielen sehen kann, werden die Beitragslisten einierseits für die Navigationselemente der Website benutzt, wie etwas das Hauptmenü. Oder aber um die Liste der Redakteure einer Website zu definieren. Im letzten Fall kann dann die Liste der Redakteure als Komponente in einen Beitrag eingebaut werden. Beispiel:
+Wie man an den Beispielen sehen kann, werden die Beitragslisten einierseits für die Navigationselemente der Website benutzt wie etwas das Hauptmenü (siehe unten). Oder aber um die Liste der Redakteure einer Website zu definieren. Im letzten Fall kann dann die Liste der Redakteure als Komponente in einen Beitrag eingebaut werden. Beispiel:
 
 https://stage-q.freshclip.tv/websites/2/item_lists/4/edit
 
@@ -136,7 +136,7 @@ Die Domains haben momentan noch keine weitere Bedeutung. Später werden sie jedo
 
 ### Navigation
 
-Jede Website enthält mehrere Navigationen. Bei it's in TV und Fein gekocht sind das aktuell die Hauptnavigation und die Navigation im Footer. Im Bereich Website-Navigation lasse sich für diese Bereiche 
+Jede Website enthält mehrere Navigationen. Bei it's in TV und Fein gekocht sind das aktuell die Hauptnavigation und die Navigation im Footer. Im Bereich Website-Navigation kannst eine Beitragsliste hinterlegen:
 
 ![image](https://user-images.githubusercontent.com/141123/77925813-9f89cd00-72a5-11ea-9446-6f1860df6ab3.png)
 
@@ -145,4 +145,3 @@ Jede Website enthält mehrere Navigationen. Bei it's in TV und Fein gekocht sind
 In Q gibt es eine globale Suche mit der ohne weitere Klicks alle Arten von Beiträgen finden kannst:
 
 ![image](https://user-images.githubusercontent.com/141123/77925335-0a86d400-72a5-11ea-9c8b-20a6e61e4fa7.png)
-
