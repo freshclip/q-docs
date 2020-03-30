@@ -102,9 +102,9 @@ Wie der Name sagt, handelt sich sich um [geordnete Listen von Beiträgen](https:
 
 ![image](https://user-images.githubusercontent.com/141123/77960007-db3d8a80-72d7-11ea-8c2b-2c78b2e41b2e.png)
 
-Wie man an den Beispielen sehen kann, werden die Beitragslisten einierseits für die Navigationselemente der Website benutzt wie etwas das Hauptmenü (siehe unten). Oder aber um die Liste der Redakteure einer Website zu definieren. Im letzten Fall kann dann die Liste der Redakteure als Komponente in einen Beitrag eingebaut werden. Beispiel:
+Wie man an den Beispielen sehen kann, werden die Beitragslisten einierseits für die Navigationselemente der Website benutzt wie etwas das Hauptmenü (siehe unten). Oder aber um die Liste der Redakteure einer Website zu definieren. Im letzten Fall kann dann die Liste der Redakteure als Komponente in einen Beitrag eingebaut werden.
 
-https://stage-q.freshclip.tv/websites/2/item_lists/4/edit
+[Beispiel "Fein gekocht Redaktion"](https://stage-q.freshclip.tv/websites/2/item_lists/4/edit)
 
 ![image](https://user-images.githubusercontent.com/141123/77960352-7171b080-72d8-11ea-909e-5a7082342e69.png)
 
