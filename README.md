@@ -112,7 +112,7 @@ https://stage-q.freshclip.tv/websites/2/items/redaktion/edit#components
 
 ![image](https://user-images.githubusercontent.com/141123/77960414-8c442500-72d8-11ea-86aa-1c72e84f0307.png)
 
-Auf der Website sieht das dann so aus: https://stage.fein-gekocht.de/redaktion
+[Auf der Website sieht das dann so aus](https://stage.fein-gekocht.de/redaktion):
 
 ![image](https://user-images.githubusercontent.com/141123/77960504-b4cc1f00-72d8-11ea-9d61-0597a1f28f75.png)
 
