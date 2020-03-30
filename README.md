@@ -102,7 +102,25 @@ Wie der Name sagt, handelt sich sich um [geordnete Listen von Beiträgen](https:
 
 ![image](https://user-images.githubusercontent.com/141123/77960007-db3d8a80-72d7-11ea-8c2b-2c78b2e41b2e.png)
 
+Wie man an den Beispielen sehen kann, werden die Beitragslisten einierseits für die Navigationselemente der Website benutzt, wie etwas das Hauptmenü. Oder aber um die Liste der Redakteure einer Website zu definieren. Im letzten Fall kann dann die Liste der Redakteure als Komponente in einen Beitrag eingebaut werden. Beispiel:
 
+https://stage-q.freshclip.tv/websites/2/item_lists/4/edit
+
+![image](https://user-images.githubusercontent.com/141123/77960352-7171b080-72d8-11ea-909e-5a7082342e69.png)
+
+https://stage-q.freshclip.tv/websites/2/items/redaktion/edit#components
+
+![image](https://user-images.githubusercontent.com/141123/77960414-8c442500-72d8-11ea-86aa-1c72e84f0307.png)
+
+Auf der Website sieht das dann so aus: https://stage.fein-gekocht.de/redaktion
+
+![image](https://user-images.githubusercontent.com/141123/77960504-b4cc1f00-72d8-11ea-9d61-0597a1f28f75.png)
+
+Mit einem Klick auf den Teaser des Redakteurs kommt man dann zur seite des Redakteurs: https://stage.fein-gekocht.de/redaktion/janina-ninchen-koetz
+
+Unten sind dann die letzten Artikel des Redakteurs aufgelistet:
+
+![image](https://user-images.githubusercontent.com/141123/77960607-e644ea80-72d8-11ea-9f99-6f42c307826a.png)
 
 ## Websites
 
