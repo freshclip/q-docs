@@ -2,13 +2,23 @@
 
 [Production (https://q.freshclip.tv/)](https://q.freshclip.tv/)
 
-[Staging (https://stage-q.freshclip.tv/editors/sign_in)](https://stage-q.freshclip.tv/editors/sign_in)
+[Staging (https://stage-q.freshclip.tv/editors/sign_in)](https://stage-q.freshclip.tv/)
 
-Gleiche Zugangsdaten wie im CMS. Ggf. die Funktion _Passwort vergessen?_ benutzen, um Passwort auf *beiden* Plattformen zu ändern.
+Benutze die gleichen Zugangsdaten wie im CMS. Ggf. die Funktion _Passwort vergessen?_ benutzen, um Passwort auf *beiden* Plattformen zu ändern.
 
-### Markdown
+## Websites
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Anstatt 
+
+## Beiträge
+
+
+
+## Globale Suche
+
+In Q gibt es eine globale Suche mit der ohne weitere Klicks alle Arten von Beiträgen finden kannst:
+
+
 
 ```markdown
 Syntax highlighted code block
