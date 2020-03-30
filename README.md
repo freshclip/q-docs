@@ -60,7 +60,7 @@ Jeder Beitrag kann beliebig viele Komponenten haben. Momentan sind diese Kompone
 
 ![image](https://user-images.githubusercontent.com/141123/77958204-f78bf800-72d4-11ea-80b9-0721fd92eff6.png)
 
-Im Beispiel ist die erste Komponente ein Video:
+#### Video
 
 ![image](https://user-images.githubusercontent.com/141123/77958348-35891c00-72d5-11ea-9abb-0aaabfec1c2b.png)
 
@@ -71,6 +71,28 @@ Auf der rechten Seite findet sich eine Liste, die immer die letzten erstellten V
 Sollte in der Liste nicht das gewünscht Video zu sehen sein, dann kann auch mit der Suchbox unterhalb des Videos direkt gesucht werden:
 
 ![image](https://user-images.githubusercontent.com/141123/77958665-a7f9fc00-72d5-11ea-9bdf-e4729e2357f3.png)
+
+Mit dem Löschen Button kann eine Komponente aus dem Beitrag entfernt werden:
+
+![image](https://user-images.githubusercontent.com/141123/77958933-1d65cc80-72d6-11ea-98ce-807847a8d6cb.png)
+
+Mit dem Pfeiltasten kann die Reihenfolge der Komponenten geändert werden:
+
+![image](https://user-images.githubusercontent.com/141123/77959003-38384100-72d6-11ea-8f9d-99ad434eae10.png)
+
+#### Text
+
+Mit der Text-Komponente lassen sich einfache Texte schreiben, wie man unschwer erraten kann:
+
+![image](https://user-images.githubusercontent.com/141123/77959090-57cf6980-72d6-11ea-905d-f64f968e5020.png)
+
+### Bilder und Getty-Bilder
+
+Momentan unterscheiden wir noch zwischen Bildern (die im alten CMS hochgeladen werden) und Getty-Bildern (die wir früher mal über die Getty-API geladen haben).
+
+Das Auswählen des Bilder geschieht ähnlich wie bei den Videos: Rechts erscheint eine Liste der letzten Bilder, die direkt ausgewählt werden können. Über die Suche kann auch nach bestimmten Bildern gesucht werden:
+
+![image](https://user-images.githubusercontent.com/141123/77959557-0d022180-72d7-11ea-9022-9d61bf6d9a71.png)
 
 Nach Bedarf werden wir weitere Komponenten entwickeln.
 
