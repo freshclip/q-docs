@@ -116,7 +116,7 @@ Auf der Website sieht das dann so aus: https://stage.fein-gekocht.de/redaktion
 
 ![image](https://user-images.githubusercontent.com/141123/77960504-b4cc1f00-72d8-11ea-9d61-0597a1f28f75.png)
 
-Mit einem Klick auf den Teaser des Redakteurs kommt man dann zur seite des Redakteurs: https://stage.fein-gekocht.de/redaktion/janina-ninchen-koetz
+Mit einem Klick auf den Teaser des Redakteurs kommt man dann zur [Seite des Redakteurs](https://stage.fein-gekocht.de/redaktion/janina-ninchen-koetz):
 
 Unten sind dann die letzten Artikel des Redakteurs aufgelistet:
 
