@@ -8,7 +8,21 @@ Benutze die gleichen Zugangsdaten wie im CMS. Ggf. die Funktion _Passwort verges
 
 ## Websites
 
-Anstatt 
+Hier kannst du das Verhalten von unseren Web-Portalen konfigurieren:
+
+![image](https://user-images.githubusercontent.com/141123/77925541-44f07100-72a5-11ea-99af-5f307a04d090.png)
+
+### Domains
+
+Die Domains haben momentan noch keine weitere Bedeutung. Später werden sie jedoch dem AdManagement helfen.
+
+![image](https://user-images.githubusercontent.com/141123/77925746-88e37600-72a5-11ea-978d-b8494bb03933.png)
+
+### Navigation
+
+Jede Website enthält mehrere Navigationen. Bei it's in TV und Fein gekocht sind das aktuell die Hauptnavigation und die Navigation im Footer. Im Bereich Website-Navigation lasse sich für diese Bereiche 
+
+![image](https://user-images.githubusercontent.com/141123/77925813-9f89cd00-72a5-11ea-9446-6f1860df6ab3.png)
 
 ## Beiträge
 
@@ -18,32 +32,5 @@ Anstatt
 
 In Q gibt es eine globale Suche mit der ohne weitere Klicks alle Arten von Beiträgen finden kannst:
 
+![image](https://user-images.githubusercontent.com/141123/77925335-0a86d400-72a5-11ea-9c8b-20a6e61e4fa7.png)
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/freshclip/Q/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
