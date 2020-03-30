@@ -8,7 +8,7 @@ Benutze die gleichen Zugangsdaten wie im CMS. Ggf. die Funktion _Passwort verges
 
 ## Beiträge
 
-Im neuen Q gibt es nur noch Beiträge. Die meisten der Beiträge sind Artikel. Aber auch Personen, Themen & Redakteure sind Beiträge:
+Im neuen Q gibt es nur noch Beiträge. Videos sind nur noch Komponenten eines Beitrags (siehe unten). Die meisten der Beiträge sind Artikel. Aber auch Personen, Themen & Redakteure sind Beiträge:
 
 ![image](https://user-images.githubusercontent.com/141123/77955761-0a043280-72d1-11ea-89e3-6ff60c5a8b21.png)
 
@@ -30,7 +30,7 @@ sein.
 
 ![image](https://user-images.githubusercontent.com/141123/77956774-c4486980-72d2-11ea-8ace-5f7d89dfba26.png)
 
-Durch Klick auf eine Zeile gelangst du Beitragsbearbeitungsseite:
+Durch Klick auf eine Zeile gelangst du zur Seite des Beitrags:
 
 ### Stammdaten
 
@@ -38,14 +38,21 @@ Beispiel: https://stage-q.freshclip.tv/websites/1/items/das-coronavirus-die-risi
 
 ![image](https://user-images.githubusercontent.com/141123/77957274-89930100-72d3-11ea-8dcb-6b7b09be701f.png)
 
-Hier können die wichtigsten Daten zum Beitrag erfasst werden:
+Hier können die wichtigsten Daten zum Beitrag bearbeitet werden:
 
 ![image](https://user-images.githubusercontent.com/141123/77957347-a596a280-72d3-11ea-8fa0-d06ed5bb6428.png)
 
+Anders als im alten CMS lassen sich hier auch mehrere Redakteure einem Artikel zuordnen (Text + Video):
+
+![image](https://user-images.githubusercontent.com/141123/77957766-48e7b780-72d4-11ea-87e4-7f812a1dd3d2.png)
+
+Für Artikel und Redakteure gibt es die Möglichkeit eine Veröffentlichung vorzunehmen. Artikel können zudem auch zeitlos sein:
+
+![image](https://user-images.githubusercontent.com/141123/77957905-85b3ae80-72d4-11ea-898e-f84f6e343f64.png)
 
 ### Komponenten
 
-Jeder Beitrag kann beliebig viele Komponenten haben. Momentan sind diese Komponenten möglich.
+Jeder Beitrag kann beliebig viele Komponenten haben. Momentan sind diese Komponenten möglich:
 
 ![image](https://user-images.githubusercontent.com/141123/77955877-3b7cfe00-72d1-11ea-8bec-726ad67cd96a.png)
 
