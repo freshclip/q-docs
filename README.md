@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Login
 
-You can use the [editor on GitHub](https://github.com/freshclip/Q/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Production (https://q.freshclip.tv/)](https://q.freshclip.tv/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Staging (https://stage-q.freshclip.tv/editors/sign_in)](https://stage-q.freshclip.tv/editors/sign_in)
+
+Gleiche Zugangsdaten wie im CMS. Ggf. die Funktion _Passwort vergessen?_ benutzen, um Passwort auf *beiden* Plattformen zu ändern.
 
 ### Markdown
 
