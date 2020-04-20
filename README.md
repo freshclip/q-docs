@@ -1,6 +1,6 @@
 ## Video vs. Beitrag (Artikel)
 
-<video width="100%" height="100%" controls="controls" src="https://cdn.freshclip.tv/docs/q-create-article-from-video-2020-04-20.mov">
+<video width="100%" height="100%" controls="controls" src="https://cdn.freshclip.tv/docs/q-create-article-from-video-2020-04-20.mp4">
 </video>
 
 ## Login
