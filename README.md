@@ -1,3 +1,7 @@
+<video width="320" height="240" controls>
+  <source src="https://cdn.freshclip.tv/docs/q-create-article-from-video-2020-04-20.mov" type="video/mp4">
+</video>
+
 ## Login
 
 [Production (https://q.freshclip.tv/)](https://q.freshclip.tv/)
