@@ -1,8 +1,14 @@
 ## Video: Erstelle einen Artikel zu einem Video
 
+1.
+
 https://cdn.freshclip.tv/docs/q-create-article-from-video-2020-04-20.mov
 
+2.
+
 ![](https://cdn.freshclip.tv/docs/q-create-article-from-video-2020-04-20.mov)
+
+3.
 
 <video width="320" height="240" controls>
   <source src="https://cdn.freshclip.tv/docs/q-create-article-from-video-2020-04-20.mov" type="video/mp4">
